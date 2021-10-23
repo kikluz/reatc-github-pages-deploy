@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kikluz/react-github-pages-deploy/static/css/main.955202ce.chunk.css",
+    "main.js": "/kikluz/react-github-pages-deploy/static/js/main.3bb5031d.chunk.js",
+    "main.js.map": "/kikluz/react-github-pages-deploy/static/js/main.3bb5031d.chunk.js.map",
+    "runtime-main.js": "/kikluz/react-github-pages-deploy/static/js/runtime-main.a708baea.js",
+    "runtime-main.js.map": "/kikluz/react-github-pages-deploy/static/js/runtime-main.a708baea.js.map",
+    "static/js/2.52954ee1.chunk.js": "/kikluz/react-github-pages-deploy/static/js/2.52954ee1.chunk.js",
+    "static/js/2.52954ee1.chunk.js.map": "/kikluz/react-github-pages-deploy/static/js/2.52954ee1.chunk.js.map",
+    "index.html": "/kikluz/react-github-pages-deploy/index.html",
+    "static/css/main.955202ce.chunk.css.map": "/kikluz/react-github-pages-deploy/static/css/main.955202ce.chunk.css.map",
+    "static/js/2.52954ee1.chunk.js.LICENSE.txt": "/kikluz/react-github-pages-deploy/static/js/2.52954ee1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a708baea.js",
+    "static/js/2.52954ee1.chunk.js",
+    "static/css/main.955202ce.chunk.css",
+    "static/js/main.3bb5031d.chunk.js"
+  ]
+}

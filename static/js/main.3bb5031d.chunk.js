@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-github-pages-d"]=this["webpackJsonpreact-github-pages-d"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),i=c.n(n),r=c(3),s=c.n(r),a=(c(8),c(0));var d=function(){return Object(a.jsx)("main",{children:Object(a.jsx)("div",{children:Object(a.jsx)("h1",{children:"React Github Pages Deploy"})})})};s.a.render(Object(a.jsx)(i.a.StrictMode,{children:Object(a.jsx)(d,{})}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.3bb5031d.chunk.js.map
